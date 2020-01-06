@@ -1,0 +1,2 @@
+# Gambling-Game-and-Dice-simulation
+Computer program ( gambling.py ) that simulates a game between two players.The program must ask for each player to enter his name. Each player rolls a fair six-sided dice one after another. The process is repeated until a player gets a 6. The winner is the first player to get a 6. The program then returns the name of the winner and the number of trials before the success. And program diceSimulation1.py to simulate a dice game
